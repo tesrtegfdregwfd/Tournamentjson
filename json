@@ -1,148 +1,38 @@
 {
   "tournaments": [
     {
-      "id": "tournament_001",
-      "name": "Stumble Legends Championship",
+      "id": "1",
+      "name": "Meow tour",
       "type": "MAIN EVENT",
       "status": "registration",
-      "timeRemaining": "02D 14H",
-      "startDateLabel": "21. Apr 11:00 AM",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StumbleGuys_icon.png/480px-StumbleGuys_icon.png",
-      "prizePool": 276800,
-      "prizeGems": 360,
+      "timeRemaining": "Soon",
+      "startDateLabel": "Soon",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1379567965724344351/1494799686488428605/image0.jpg?ex=69e5e671&is=69e494f1&hm=35daf86dd423821bbb81f81d0fe388b495eab627b1387d61b22d749255af7e2c&",
+      "prizePool": 103,
+      "prizeGems": 284893,
       "bracketType": "SE bracket",
       "mode": "NORMAL",
       "teamSize": 1,
       "maxPlayers": 128,
-      "currentPlayers": 64,
-      "playerTotalPoints": 0,
-      "signedUp": false,
-      "statusMessage": "Tournament has not started yet.",
-      "winner": "",
-      "nextPhaseIn": "",
-      "warningMessage": "",
-      "allowedEmotes": ["wave", "dance", "celebrate"],
-      "phases": [
-        {
-          "phaseNumber": 1,
-          "name": "SE bracket",
-          "status": "upcoming",
-          "rounds": [
-            { "number": 1, "status": "upcoming", "points": 0 },
-            { "number": 2, "status": "upcoming", "points": 0 },
-            { "number": 3, "status": "upcoming", "points": 0 },
-            { "number": 4, "status": "upcoming", "points": 0 },
-            { "number": 5, "status": "upcoming", "points": 0 }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tournament_002",
-      "name": "Discord Rumble",
-      "type": "STARTING IN",
-      "status": "registration",
-      "timeRemaining": "54M 09S",
-      "startDateLabel": "19. Apr 05:35 PM",
-      "imageUrl": "",
-      "prizePool": 79600,
-      "prizeGems": 0,
-      "bracketType": "SE bracket",
-      "mode": "NORMAL",
-      "teamSize": 1,
-      "maxPlayers": 64,
-      "currentPlayers": 60,
-      "playerTotalPoints": 0,
-      "signedUp": true,
-      "statusMessage": "Tournament has not started yet.",
-      "winner": "",
-      "nextPhaseIn": "",
-      "warningMessage": "",
-      "allowedEmotes": [],
-      "phases": [
-        {
-          "phaseNumber": 1,
-          "name": "SE bracket",
-          "status": "upcoming",
-          "rounds": [
-            { "number": 1, "status": "upcoming", "points": 0 },
-            { "number": 2, "status": "upcoming", "points": 0 },
-            { "number": 3, "status": "upcoming", "points": 0 },
-            { "number": 4, "status": "upcoming", "points": 0 }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tournament_003",
-      "name": "Early Stumble ASIA",
-      "type": "STARTING IN",
-      "status": "upcoming",
-      "timeRemaining": "23H 39M",
-      "startDateLabel": "20. Apr 03:00 PM",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Stumble_Guys_logo.png/250px-Stumble_Guys_logo.png",
-      "prizePool": 271600,
-      "prizeGems": 340,
-      "bracketType": "SE bracket",
-      "mode": "NORMAL",
-      "teamSize": 1,
-      "maxPlayers": 256,
       "currentPlayers": 0,
       "playerTotalPoints": 0,
       "signedUp": false,
-      "statusMessage": "Tournament has not started yet.",
-      "winner": "",
-      "nextPhaseIn": "",
-      "warningMessage": "",
+      "statusMessage": "SOON",
+      "winner": "SOON",
+      "nextPhaseIn": "SOON",
+      "warningMessage": "SOON",
       "allowedEmotes": [],
       "phases": [
         {
           "phaseNumber": 1,
-          "name": "SE bracket",
-          "status": "upcoming",
+          "name": "SOON",
+          "status": "SOON",
           "rounds": [
-            { "number": 1, "status": "upcoming", "points": 0 },
-            { "number": 2, "status": "upcoming", "points": 0 },
-            { "number": 3, "status": "upcoming", "points": 0 },
-            { "number": 4, "status": "upcoming", "points": 0 },
-            { "number": 5, "status": "upcoming", "points": 0 }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "tournament_004",
-      "name": "1v1 Sultano Punch Only",
-      "type": "MAIN EVENT",
-      "status": "in_progress",
-      "timeRemaining": "16H 39M",
-      "startDateLabel": "19. Apr 11:02 AM",
-      "imageUrl": "",
-      "prizePool": 50000,
-      "prizeGems": 100,
-      "bracketType": "SE bracket",
-      "mode": "PUNCH",
-      "teamSize": 1,
-      "maxPlayers": 32,
-      "currentPlayers": 18,
-      "playerTotalPoints": 420,
-      "signedUp": true,
-      "statusMessage": "Tournament is in progress.",
-      "winner": "",
-      "nextPhaseIn": "2H 15M",
-      "warningMessage": "",
-      "allowedEmotes": ["punch"],
-      "phases": [
-        {
-          "phaseNumber": 1,
-          "name": "SE bracket",
-          "status": "in_progress",
-          "rounds": [
-            { "number": 1, "status": "qualified", "points": 150 },
-            { "number": 2, "status": "qualified", "points": 270 },
-            { "number": 3, "status": "in_progress", "points": 0 },
-            { "number": 4, "status": "upcoming", "points": 0 },
-            { "number": 5, "status": "upcoming", "points": 0 }
+            { "number": 1, "status": "put_here_roundStatus", "points": 10 },
+            { "number": 2, "status": "put_here_roundStatus", "points": 10 },
+            { "number": 3, "status": "put_here_roundStatus", "points": 10 },
+            { "number": 4, "status": "put_here_roundStatus", "points": 10 },
+            { "number": 5, "status": "put_here_roundStatus", "points": 10 }
           ]
         }
       ]
