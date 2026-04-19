@@ -1,1 +1,69 @@
-{}
+{
+  "tournaments": [
+    {
+      "id": "main-event-001",
+      "name": "Stumble Legends Championship",
+      "type": "MAIN EVENT",
+      "status": "registration",
+      "timeRemaining": "2d 14h",
+      "imageUrl": "https://example.com/tournament-image.png",
+      "prizePool": 5000,
+      "mode": "NORMAL",
+      "teamSize": 1,
+      "maxPlayers": 32,
+      "currentPlayers": 18,
+      "playerTotalPoints": 0,
+      "allowedEmotes": [
+        "GG",
+        "Hello",
+        "Good Luck"
+      ],
+      "statusMessage": "Registration is open. Sign up before the timer ends.",
+      "nextPhaseIn": "2d 14h",
+      "warningMessage": "You must be online when the tournament starts.",
+      "phases": [
+        {
+          "phaseNumber": 1,
+          "name": "RR Group",
+          "status": "upcoming",
+          "rounds": [
+            {
+              "number": 1,
+              "status": "tbd",
+              "points": 0
+            },
+            {
+              "number": 2,
+              "status": "tbd",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "phaseNumber": 2,
+          "name": "SE bracket",
+          "status": "upcoming",
+          "rounds": [
+            {
+              "number": 1,
+              "status": "tbd",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "phaseNumber": 3,
+          "name": "Final",
+          "status": "upcoming",
+          "rounds": [
+            {
+              "number": 1,
+              "status": "tbd",
+              "points": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
